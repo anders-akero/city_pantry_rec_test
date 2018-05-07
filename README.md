@@ -4,7 +4,7 @@
  * Advance time is always given in hours
 
 ## How to use
-Simply call the index file wiht the following paramters in this order:
+Simply call the index file with the following parameters in this order:
 filename dd/mm/yy hh:mm postcode amount
 
 ### Example:
